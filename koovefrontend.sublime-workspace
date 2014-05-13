@@ -1,0 +1,1916 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pos",
+				"postType"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"to",
+				"totalFriends"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"has",
+				"hasClass	.hasClass"
+			],
+			[
+				"typ",
+				"typeof"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"update",
+				"update_post_meta"
+			],
+			[
+				"post",
+				"post_title"
+			],
+			[
+				"ans",
+				"answer_count"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"community",
+				"community_post_id  (variable)"
+			],
+			[
+				"desc",
+				"description  (variable)"
+			],
+			[
+				"tc_get_comm",
+				"tc_get_community_filter_vars  (function)"
+			],
+			[
+				"user_",
+				"user_id"
+			],
+			[
+				"auth",
+				"author_twitter"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"esc_",
+				"esc_html"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"mother",
+				"mother_id"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"sub",
+				"submit	submit"
+			],
+			[
+				"submi",
+				"submit_type"
+			],
+			[
+				"t",
+				"tauth"
+			],
+			[
+				"tc_get_share",
+				"tc_get_share_message  (function)"
+			],
+			[
+				"tc_get_a",
+				"tc_get_author_name  (function)"
+			],
+			[
+				"au",
+				"author_twitter"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"tc_get_post",
+				"tc_get_post  (function)"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"usern",
+				"username_exists"
+			],
+			[
+				"wp_generat",
+				"wp_generate_password  (function)"
+			],
+			[
+				"user_pa",
+				"user_password"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"ls",
+				"list-style"
+			],
+			[
+				"toggle",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"get",
+				"getjson	$.getjson()"
+			],
+			[
+				"tot",
+				"total_answers  (variable)"
+			],
+			[
+				"ste",
+				"step_status  (variable)"
+			],
+			[
+				"total",
+				"total_votes  (variable)"
+			],
+			[
+				"bo",
+				"border-top"
+			],
+			[
+				"step",
+				"step_status"
+			],
+			[
+				"update_user",
+				"update_user_meta"
+			],
+			[
+				"get_current",
+				"get_current_user_id"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"get_aut",
+				"get_the_author"
+			],
+			[
+				"get_excer",
+				"get_the_excerpt"
+			],
+			[
+				"ter",
+				"term_rank"
+			],
+			[
+				"innercir",
+				"innercircle"
+			],
+			[
+				"gr",
+				"group_by"
+			],
+			[
+				"group",
+				"group_by"
+			],
+			[
+				"tra",
+				"tra	transparent"
+			],
+			[
+				"pars",
+				"parse_str"
+			],
+			[
+				"commun",
+				"community_post_id"
+			],
+			[
+				"communi",
+				"community_post_id  (variable)"
+			],
+			[
+				"ab",
+				"absint"
+			],
+			[
+				"new",
+				"new_user"
+			],
+			[
+				"mys",
+				"mysql_bk_file"
+			],
+			[
+				"back",
+				"backup"
+			],
+			[
+				"par",
+				"parse_url"
+			],
+			[
+				"parst",
+				"parse_str"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"pre",
+				"prependTo	.prependTo()"
+			],
+			[
+				"z-i",
+				"z-index"
+			],
+			[
+				"su",
+				"submit	submit"
+			],
+			[
+				"get_current_us",
+				"get_current_user_id  (function)"
+			],
+			[
+				"user_lo",
+				"user_login"
+			],
+			[
+				"grou",
+				"group_id  (variable)"
+			],
+			[
+				"techch",
+				"techchamp  (variable)"
+			],
+			[
+				"tota",
+				"total_votes"
+			],
+			[
+				"term",
+				"term_id  (variable)"
+			],
+			[
+				"ran",
+				"ranks"
+			],
+			[
+				"get_curren",
+				"get_current_user_id"
+			],
+			[
+				"query",
+				"query_posts"
+			],
+			[
+				"answer",
+				"answer_id"
+			],
+			[
+				"esc_a",
+				"esc_attr_e  (function)"
+			],
+			[
+				"tc_get_inn",
+				"tc_get_innercircle_users"
+			],
+			[
+				"innercirc",
+				"innercircle_id"
+			],
+			[
+				"innercircle",
+				"innercircle_tag"
+			],
+			[
+				"pare",
+				"parent_post_type"
+			],
+			[
+				"inner",
+				"innercircle_tags"
+			],
+			[
+				"prev",
+				"preventDefault  (function)"
+			],
+			[
+				"get_user_",
+				"get_user_meta"
+			],
+			[
+				"add_user",
+				"add_user_meta"
+			],
+			[
+				"gro",
+				"group_id"
+			],
+			[
+				"base",
+				"base64_decode"
+			],
+			[
+				"base6",
+				"base64_encode"
+			],
+			[
+				"inn",
+				"innercircle_id  (variable)"
+			],
+			[
+				"inser",
+				"insert_values"
+			],
+			[
+				"em",
+				"emails  (variable)"
+			],
+			[
+				"wp_ge",
+				"wp_generate_password"
+			],
+			[
+				"get_cure",
+				"get_current_user_id"
+			],
+			[
+				"sta",
+				"startup"
+			],
+			[
+				"tc_get_inne",
+				"tc_get_innercircle_user_tags  (function)"
+			],
+			[
+				"get_query",
+				"get_query_var"
+			],
+			[
+				"image",
+				"imagefile  (variable)"
+			],
+			[
+				"att",
+				"attach_id"
+			],
+			[
+				"tc_get_inner",
+				"tc_get_innercircle_tags  (function)"
+			],
+			[
+				"get_cuu",
+				"get_current_user_id"
+			],
+			[
+				"trig",
+				"trig_btn"
+			],
+			[
+				"is_user",
+				"is_user_logged_in"
+			],
+			[
+				"meta",
+				"meta_query"
+			],
+			[
+				"inne",
+				"innercircle_id  (variable)"
+			],
+			[
+				"req",
+				"request-done"
+			],
+			[
+				"linked",
+				"linkedAnswer"
+			],
+			[
+				"parent",
+				"parent_id"
+			],
+			[
+				"trac",
+				"track  (variable)"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"thumb",
+				"thumbsup_id"
+			],
+			[
+				"get_quer",
+				"get_query_var"
+			],
+			[
+				"red",
+				"redirect_url"
+			],
+			[
+				"uc",
+				"ucwords"
+			],
+			[
+				"get_post_t",
+				"get_post_type  (function)"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"form",
+				"form_data"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"startup",
+				"startup_id"
+			],
+			[
+				"act",
+				"acitivty_posts"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "less/index.html",
+			"settings":
+			{
+				"buffer_size": 2338,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/style.less",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix",
+				"name": "style.less"
+			}
+		}
+	],
+	"build_system": "Packages/LESS-build/LESS.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"setjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"Snippet: do",
+				"Snippet: docfile"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"lint",
+				"JSLint"
+			],
+			[
+				"php",
+				"Tidy PHP"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"tid",
+				"Tidy HTML"
+			],
+			[
+				"tidy",
+				"Tidy PHP"
+			],
+			[
+				"form",
+				"Format: Php"
+			],
+			[
+				"ti",
+				"Tidy PHP"
+			],
+			[
+				"prefix",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"head",
+				"Snippet: Plugin Head"
+			],
+			[
+				"fe",
+				"Fetch: File"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"fetc",
+				"Fetch: File"
+			],
+			[
+				"inste",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"fom",
+				"Format: Php"
+			],
+			[
+				"forma",
+				"Format: Php"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"t",
+				"Tidy PHP"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add .",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"pret",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"pre",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"htm",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remv",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Format: Php"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"format",
+				"Format: Php"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sunny/public_html/kooveFrontend/css/bootstrap.min.css",
+		"/home/sunny/public_html/chulbul/htdocs/api/v1/wpClasses/init.php",
+		"/home/sunny/.config/sublime-text-3/Packages/JsFormat/Default (Linux).sublime-keymap",
+		"/home/sunny/Desktop/DesktopFiles/chrome-plugin-accept-fb-group-user-request-master/script.js",
+		"/home/sunny/public_html/chulbul/config/env/sunny.php",
+		"/home/sunny/public_html/chulbul/config/env/server.php",
+		"/home/sunny/public_html/chulbul/.bc",
+		"/opt/lampp/phpmyadmin/config.inc.php",
+		"/home/sunny/public_html/tc-ic/.bc",
+		"/home/sunny/public_html/chulbul/htdocs/api/index.php",
+		"/home/sunny/public_html/chulbul/.gitmodules",
+		"/home/sunny/public_html/chulbul/htdocs/index.php",
+		"/home/sunny/public_html/tc-ic/public_html/api/index.php",
+		"/home/sunny/public_html/chulbul/config/wordpress.php",
+		"/opt/lampp/etc/extra/httpd-vhosts.conf",
+		"/etc/hosts",
+		"/opt/lampp/etc/httpd.conf",
+		"/home/sunny/public_html/discourse/LICENSE.txt",
+		"/home/sunny/public_html/discourse/app/assets/javascripts/discourse/lib/html.js",
+		"/home/sunny/public_html/discourse/jsapp/templates/selected_posts.js.handlebars",
+		"/home/sunny/public_html/discourse/jsapp/views/selected_posts_view.js",
+		"/home/sunny/public_html/discourse/jsapp/mixins/selected_posts_count.js",
+		"/home/sunny/public_html/discourse/app/assets/javascripts/discourse/views/container_view.js",
+		"/home/sunny/public_html/discourse/app/assets/javascripts/discourse/views/view.js",
+		"/home/sunny/public_html/discourse/plugins/DP-Discourse-Plugin/assets/javascripts/discourse/templates/dpsocial.js.handlebars",
+		"/home/sunny/public_html/discourse/plugins/DP-Discourse-Plugin/assets/javascripts/discourse/templates/header.js.handlebars",
+		"/home/sunny/public_html/discourse/plugins/DP-Discourse-Plugin/assets/javascripts/discourse/templates/topic.js.handlebars",
+		"/home/sunny/public_html/discourse/app/assets/javascripts/discourse/mixins/scroll_top.js",
+		"/home/sunny/public_html/discourse/app/assets/javascripts/discourse/views/post_view.js",
+		"/home/sunny/public_html/discourse/app/assets/javascripts/discourse/views/topic_footer_buttons_view.js",
+		"/home/sunny/public_html/discourse/app/assets/javascripts/discourse/routes/topic_route.js",
+		"/home/sunny/public_html/discourse/plugins/poll/assets/javascripts/poll_ui.js",
+		"/home/sunny/public_html/discourse/app/assets/javascripts/discourse/lib/page_tracker.js",
+		"/home/sunny/public_html/discourse/app/assets/javascripts/discourse/initializers/page_tracking.js",
+		"/home/sunny/public_html/discourse/plugins/DP-Discourse-Plugin/plugin.rb",
+		"/home/sunny/public_html/discourse/jsapp/routes/discourse_location.js",
+		"/home/sunny/public_html/discourse/plugins/emoji/assets/javascripts/emoji.js.erb",
+		"/home/sunny/public_html/discourse/lib/file_store/local_store.rb",
+		"/home/sunny/public_html/discourse/jsapp/controllers/login_controller.js",
+		"/home/sunny/public_html/discourse/vendor/assets/javascripts/lock-on.js",
+		"/home/sunny/public_html/techchamp/package.json",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/home.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/community/community-loop-single-post.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/community/community-single-post-content.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/community/add-button.php",
+		"/home/sunny/public_html/techchamp/public_html/content/themes/tc/footer.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/assets/js/public.js",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/assets/less/template.less",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/topics/topic-single-header.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/includes/texts/tc-texts.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/tc-template.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/lib/thumbUp/init.js.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/tc-ajax.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/my-account/login.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/answers/answer-add-button.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/assets/js/import.js",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/lib/nextend-facebook-connect/nextend-facebook-connect.php",
+		"/home/sunny/public_html/techchamp/public_html/content/themes/tc/header.php",
+		"/home/sunny/public_html/techchamp/docs/html/files.html",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/includes/topics/tc-topics.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/tech-champ.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/my-account/my-account.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/topics/add-form.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/topic.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/answer.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/community/community-single-post.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/includes/users/tc-users.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/answers/answers-loop.php",
+		"/home/sunny/public_html/techchamp/config/wordpress.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/community/community-filter.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/topics/topic-filter.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/assets/less/variables.less",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/tc-functions.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/assets/less/fields.less",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/includes/community/tc-community.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/includes/qa/tc-answers.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/community/add-post-form.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/posts/post-footer-single.php",
+		"/home/sunny/public_html/techchamp/public_html/api/includes/class-tc-api-answer.php",
+		"/home/sunny/public_html/techchamp/public_html/api/includes/class-tc-api-users.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/lib/opengraph/opengraph.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/general/link-preview.php",
+		"/home/sunny/public_html/techchamp/.bc",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/answers/answer-loop-single.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/general/voting-loop.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/community/community-single-loop.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/lib/thumbUp/templates/mini_thumbs.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/lib/thumbUp/styles.css",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/topics/topic-single.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/assets/less/style.less",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/posts/post-author-avatar.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/tc-wp-pluggables.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/assets/less/header.less",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/general/share-form.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/includes/social/tc-social.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/includes/fbsync/tc-fbsync.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/includes/activity/tc-activity.php",
+		"/home/sunny/Desktop/FileZilla.xml",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/posts/post-answer-numbers.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/activity/activity-single-loop.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/innercircles.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/group.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/groups.php",
+		"/home/sunny/public_html/techchamp/public_html/site/wp-includes/ID3/module.tag.id3v1.php",
+		"/home/sunny/public_html/techchamp/public_html/site/wp-admin/options-discussion.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/innercircles/innercircle-post-privacy-link.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/innercircles/innercircle-single-loop.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/innercircles/innercircle-users.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/my-account/dashboard.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/posts/post-add-topics.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/posts/post-delete.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/posts/post-footer.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/posts/post-report-spam.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/posts/post-share.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/posts/post-update-tag.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/startups/startup-innercircle-welcome.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/startups/startup-single-community.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/startups/startup-single-header.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/startups/startup-single-loop.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/startups/startup-single.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/startups/startup-submit.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/topics/topic-form.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/users/onboard.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/innercircles/add-innercircle-form.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/innercircles/innercircle-dashboard-sidebar.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/innercircles/innercircle-group.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/innercircles/innercircle-hidden-answer-message.php",
+		"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/innercircles/innercircle-invitation-code.php"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"/home/sunny/public_html/discourse/app",
+			"/home/sunny/public_html/discourse/plugins",
+			"/home/sunny/public_html/techchamp/public_html/content/plugins/tc",
+			"/home/sunny/public_html/techchamp/public_html/site",
+			"/home/sunny/public_html/techchamp/public_html/content/plugins/tc",
+			"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/templates/community",
+			"/home/sunny/public_html/techchamp/public_html/site",
+			"/home/sunny/public_html/techchamp/public_html/content/plugins/tc",
+			"/home/sunny/public_html/techchamp",
+			"/home/sunny/public_html/techchamp/public_html/content/plugins/tc",
+			"/home/sunny/public_html/techchamp",
+			"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/includes/innercircles",
+			"/home/sunny/public_html/techchamp/public_html/content/plugins/tc",
+			"/home/sunny/public_html/techchamp/public_html/content/plugins/query-monitor",
+			"/home/sunny/public_html/techchamp",
+			"/home/sunny/public_html/techchamp/public_html/site",
+			"/home/sunny/public_html/techchamp/public_html/content",
+			"/home/sunny/public_html/techchamp/public_html/content/plugins/tc",
+			"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/assets",
+			"/home/sunny/public_html/techchamp",
+			"/home/sunny/public_html/techchamp/public_html/content/plugins/tc/lib/thumbUp",
+			"/home/sunny/public_html/techchamp/public_html",
+			"/home/sunny/public_html/techchamp/public_html/site",
+			"/home/sunny/public_html/techchamp/htdocs/site",
+			"/home/sunny/public_html/techchamp/htdocs/content/plugins/tc",
+			"/home/sunny/public_html/wpLatest/wp-content/plugins/woocommerce",
+			"/home/sunny/public_html/techchamp/htdocs/content/plugins/tc",
+			"/home/sunny/public_html/techchamp/htdocs/content/plugins/tc/lib/thumbUp",
+			"/home/sunny/public_html/blrstartups_app",
+			"/home/sunny/public_html/techchamp/htdocs/content",
+			"/home/sunny/public_html/techchamp/htdocs/content/plugins/tc/lib/thumbUp",
+			"/home/sunny/public_html/techchamp",
+			"/home/sunny/public_html/tech-champ",
+			"/home/sunny/public_html/tech-champ/public/content/plugins/tc/lib/thumbUp",
+			"/home/sunny/Downloads/CC_ThumbsUp_v2_0/CC_TS_V2",
+			"/home/sunny/public_html/tech-champ",
+			"/home/sunny/public_html/tech-champ/public/site",
+			"/home/sunny/public_html/tech-champ/public/content/plugins/tc",
+			"/home/sunny/public_html/blrstartups/wp-content/plugins/wp-job-manager",
+			"/home/sunny/public_html/tech-champ/public/content/themes/tc",
+			"/home/sunny/public_html/wpLatest/wp-content/plugins/woocommerce",
+			"/home/sunny/public_html/kalamartWP/wp-content/plugins/woocommerce",
+			"/home/sunny/public_html/kalamartWP/wp-content/plugins/frontend-uploader",
+			"/home/sunny/public_html/kalamartWP/wp-content/plugins/woocommerce",
+			"/home/sunny/public_html/wpLatest/wp-content/plugins/woocommerce",
+			"/home/sunny/Downloads/cleancut",
+			"/home/sunny/public_html/wpLatest/wp-content/plugins/woocommerce",
+			"/home/sunny/public_html/mrovaFlat/wp-content/plugins/aqua-page-builder",
+			"/home/sunny/public_html/mrovaFlat/wp-content/themes/bootstrapwp-Twitter-Bootstrap-for-WordPress/css/font-awesome",
+			"/home/sunny/public_html/memMaker",
+			"/home/sunny/public_html/memMaker/wp-content",
+			"/home/sunny/public_html/udaanUp",
+			"/home/sunny/public_html/www.ecom.com/wp-content/themes/mcom,/home/sunny/public_html/www.ecom.com/wp-content/themes/kalamart",
+			"/home/sunny/public_html/www.ecom.com/wp-content/themes/mcom",
+			"/home/sunny/public_html/www.ecom.com/wp-content/plugins",
+			"<project>",
+			"/home/sunny/public_html/www.ecom.com/wp-content/plugins",
+			"/home/sunny/public_html/www.ecom.com/wp-content/themes/kalamart",
+			"<project>",
+			"/home/sunny/public_html/www.ecom.com/",
+			"/home/sunny/public_html/www.ecom.com/wp-content/",
+			"/home/sunny/public_html/www.ecom.com/wp-content/plugins/woocommerce",
+			"<project>",
+			"/home/sunny/public_html/www.ecom.com/wp-content/plugins/woocommerce/widgets/",
+			"/home/sunny/public_html/www.ecom.com/wp-content/plugins/woocommerce/widgets/widget-init.php",
+			"/home/sunny/public_html/www.ecom.com/wp-content/plugins/woocommerce/widgets",
+			"<project>",
+			"/home/sunny/public_html/www.ecom.com/wp-content/plugins/woocommerce",
+			"<project>",
+			"/home/sunny/public_html/www.ecom.com/wp-content/themes",
+			"<project>",
+			"/home/sunny/public_html/www.ecom.com/wp-content/themes/the-bootstrap",
+			"<project>",
+			"/home/sunny/public_html/www.ecom.com/wp-content/themes/the-bootstrap",
+			"/home/sunny/public_html/www.ecom.com/wp-content/themes/baamee_basic"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			");",
+			"customHTML",
+			"SelectedPostsView",
+			"view",
+			".View.extend",
+			"View.extend",
+			"Ember.View.extend",
+			"didInsertElement",
+			".trigger",
+			"Discourse.TopicRoute",
+			"Discourse.PageTracker.current()",
+			"analytics",
+			"emoji.js",
+			"emoji.js.erb",
+			"show_add_community_post_button",
+			".answer",
+			".vote",
+			"login",
+			"answer_number",
+			"answers",
+			"toolt",
+			"line-height: 24px",
+			"vote",
+			"feat",
+			"featured-image",
+			"twitter",
+			"twitter_handle",
+			"group_",
+			"answer_number",
+			"answer",
+			"total_an",
+			"trigger-login",
+			"logged-in",
+			"logged",
+			"tc_get_linked_answer",
+			"side-widget",
+			"tags",
+			"ags",
+			"merge",
+			" =",
+			"	$",
+			"add_new_community_post",
+			"post_id",
+			"$record['photo']",
+			"e.",
+			"e",
+			"community_new_post_title",
+			"add_community_post",
+			"discusspolitics",
+			"sign_in",
+			"die",
+			"decide_template",
+			"innercircle",
+			"handle_user_actions",
+			"result1",
+			"thumsup_vote",
+			"thumbsup_vote",
+			".share",
+			"tc_the_posted_in",
+			"share",
+			"tc_get_votes",
+			"votes",
+			"tc_is_user_tw_connected",
+			"vars",
+			"community_paged",
+			"latest",
+			"post_id",
+			"answer",
+			"get_answer",
+			"answer",
+			"activity_posts_where",
+			"tc_add_community_fields",
+			"posted-in",
+			".panel-heading",
+			"votes",
+			"tc_add_community_join",
+			"acitivty_posts",
+			"TC_Topics",
+			"retro",
+			"load_plugin_textdomain",
+			"<th>Actions",
+			"<th>Status",
+			"<td>Status",
+			"Status",
+			"Name",
+			"placeholder",
+			"remove",
+			"create",
+			"invite users",
+			"Edit",
+			"EDIT",
+			"edit",
+			"EDIT",
+			"Edit",
+			"EDIT",
+			"'USER'",
+			"@author		Nate Jacobs",
+			"eneter",
+			"throw new Exception(__(\"Not a valid startup!\"));",
+			"throw new Exception(__(\"Invalid Startup Id\"));",
+			"throw new Exception(__(\"Invalid startup\"));",
+			"['optional']",
+			"startup_name",
+			"'placeholder' => ",
+			"'label' => ",
+			"'placeholder' =>",
+			"throw new Exception(__(\"Please Login..\"));",
+			"invalid",
+			"throw new Exception(\"Sorry! Invalid User!\");",
+			"throw new Exception(\"Sorry! Invalid Name!\");",
+			"throw new Exception(\"Sorry! Invalid Innercircle!\");",
+			"throw new Exception(__(\"Please Login..\"));",
+			"__(\"Please Login!\")",
+			"messages",
+			"messages->message",
+			"messages",
+			"__(\"Sorry you are not allowed to do this!\", 'tc' )",
+			"__(\"Please Login\", 'tc' )",
+			"__(\"Please Login!\", 'tc' )",
+			"TRACKS",
+			"Tracks",
+			"TRACKS",
+			"Please Login!",
+			"(__( \"Please Login!\", 'tc' )",
+			"__(\"Not a valid community\", 'tc')",
+			"__(\"Post is very short. sorry!\", 'tc')",
+			"load_messages",
+			"__(\"Please Login!\", 'tc')"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tc_",
+			"`tc_fb_comments` (",
+			"`tc_fb_user_points` (",
+			"`tc_fb_links` (",
+			"`tc_fb_posts` (",
+			"`tc_fb_user` (",
+			"`tc_fb_likes` (",
+			"",
+			"community",
+			"innercircle",
+			"",
+			"tc_user_profile_picture",
+			"",
+			"tc-",
+			"Tc",
+			"tc_",
+			"'tc'",
+			"[",
+			"",
+			"../font/",
+			"playschool",
+			"Playschool",
+			"",
+			"mcommerce_get_page_id(",
+			"mcommerce_create_page(",
+			"mcommerce_create_pages(",
+			"'",
+			"mRova_",
+			"mRova",
+			"'",
+			"function mRova_",
+			"class mRova_",
+			"FFF",
+			"f1f1f1",
+			"baamee-basic-opts",
+			"BaaMee Basic",
+			"Sunny Luthra",
+			"baamee_basic",
+			"baamee_basic_",
+			"'baamee_basic'",
+			"baamee_basic",
+			"baamee_basic_",
+			"'baamee_basic'",
+			"baamee_basic",
+			"'baamee_basic'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "less/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								281,
+								281
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 75.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "less/style.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "style.less",
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 179.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 102.0
+	},
+	"output.php_beautifier_errors":
+	{
+		"height": 98.0
+	},
+	"output.phpdocumentor":
+	{
+		"height": 120.0
+	},
+	"project": "koovefrontend.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"locati",
+				"jsapp/routes/discourse_location.js"
+			],
+			[
+				"locatio",
+				"jsapp/routes/discourse_location.js"
+			],
+			[
+				"pub",
+				"techchamp/public_html/content/plugins/tc/assets/js/public.js"
+			],
+			[
+				"hea",
+				"techchamp/public_html/content/themes/tc/header.php"
+			],
+			[
+				"tc-a",
+				"techchamp/public_html/content/plugins/tc/tc-ajax.php"
+			],
+			[
+				"tc-te",
+				"techchamp/public_html/content/plugins/tc/tc-template.php"
+			],
+			[
+				"text",
+				"techchamp/public_html/content/plugins/tc/includes/texts/tc-texts.php"
+			],
+			[
+				"footer",
+				"techchamp/public_html/content/themes/tc/footer.php"
+			],
+			[
+				"publ",
+				"techchamp/public_html/content/plugins/tc/assets/js/public.js"
+			],
+			[
+				"heade",
+				"techchamp/public_html/content/themes/tc/header.php"
+			],
+			[
+				"tex",
+				"techchamp/public_html/content/plugins/tc/includes/texts/tc-texts.php"
+			],
+			[
+				"lessfie",
+				"techchamp/public_html/content/plugins/tc/assets/less/fields.less"
+			],
+			[
+				"tem",
+				"techchamp/public_html/content/plugins/tc/assets/less/template.less"
+			],
+			[
+				"open",
+				"techchamp/public_html/content/plugins/tc/lib/opengraph/opengraph.php"
+			],
+			[
+				"temp",
+				"techchamp/public_html/content/plugins/tc/assets/less/template.less"
+			],
+			[
+				"templa",
+				"techchamp/public_html/content/plugins/tc/assets/less/template.less"
+			],
+			[
+				"templ",
+				"techchamp/public_html/content/plugins/tc/assets/less/template.less"
+			],
+			[
+				"variable.le",
+				"techchamp/public_html/content/plugins/tc/assets/less/variables.less"
+			],
+			[
+				"style",
+				"techchamp/public_html/content/plugins/tc/assets/less/style.less"
+			],
+			[
+				"tec",
+				"techchamp/public_html/content/plugins/tc/tech-champ.php"
+			],
+			[
+				"impo",
+				"techchamp/public_html/content/plugins/tc/assets/js/import.js"
+			],
+			[
+				"answerin",
+				"techchamp/public_html/content/plugins/tc/templates/answers/inline-answer-form.php"
+			],
+			[
+				"ans",
+				"techchamp/public_html/content/plugins/tc/templates/answers/answer-add-button.php"
+			],
+			[
+				"twit",
+				"techchamp/public_html/content/plugins/tc/includes/social/twitteroauth/twitteroauth.php"
+			],
+			[
+				"fbs",
+				"techchamp/public_html/content/plugins/tc/includes/fbsync/tc-fbsync.php"
+			],
+			[
+				"tc-fun",
+				"techchamp/public_html/content/plugins/tc/tc-functions.php"
+			],
+			[
+				"tc-answ",
+				"techchamp/public_html/content/plugins/tc/includes/qa/tc-answers.php"
+			],
+			[
+				"twi",
+				"techchamp/public_html/content/plugins/tc/includes/social/twitteroauth/twitteroauth.php"
+			],
+			[
+				"tc-ajs",
+				"techchamp/public_html/site/wp-content/themes/twentyfourteen/js/featured-content-admin.js"
+			],
+			[
+				"answer-bu",
+				"techchamp/public_html/content/plugins/tc/templates/answers/answer-add-button.php"
+			],
+			[
+				"tc-aja",
+				"techchamp/public_html/content/plugins/tc/tc-ajax.php"
+			],
+			[
+				"tc-ans",
+				"techchamp/public_html/content/plugins/tc/includes/qa/tc-answers.php"
+			],
+			[
+				"tc-tem",
+				"techchamp/public_html/content/plugins/tc/tc-template.php"
+			],
+			[
+				"tc-aj",
+				"techchamp/public_html/content/plugins/tc/tc-ajax.php"
+			],
+			[
+				"tc-f",
+				"techchamp/public_html/content/plugins/tc/tc-functions.php"
+			],
+			[
+				"htacc",
+				"techchamp/public_html/.htaccess"
+			],
+			[
+				"apico",
+				"techchamp/public_html/api/includes/class-tc-api-community.php"
+			],
+			[
+				"",
+				"techchamp/public_html/content/plugins/tc/tc-ajax.php"
+			],
+			[
+				"tc-c",
+				"techchamp/public_html/content/plugins/tc/includes/community/tc-community.php"
+			],
+			[
+				"postshar",
+				"techchamp/public_html/content/plugins/tc/templates/posts/post-share.php"
+			],
+			[
+				"head",
+				"techchamp/public_html/content/themes/tc/header.php"
+			],
+			[
+				"tc-user",
+				"techchamp/public_html/content/plugins/tc/includes/users/tc-users.php"
+			],
+			[
+				"fbsy",
+				"techchamp/public_html/content/plugins/tc/includes/fbsync/tc-fbsync.php"
+			],
+			[
+				"summ",
+				"techchamp/public_html/content/plugins/tc/assets/js/summernote.js"
+			],
+			[
+				"tc-in",
+				"techchamp/public_html/content/plugins/tc/includes/innercircles/tc-innercircles.php"
+			],
+			[
+				"tc-us",
+				"techchamp/public_html/content/plugins/tc/includes/users/tc-users.php"
+			],
+			[
+				"boot",
+				"techchamp/public_html/content/plugins/tc/assets/js/bootstrap-dialog.js"
+			],
+			[
+				"publi",
+				"techchamp/public_html/content/plugins/tc/assets/js/public.js"
+			],
+			[
+				"template",
+				"techchamp/public_html/content/plugins/tc/assets/less/template.less"
+			],
+			[
+				"class-tc",
+				"techchamp/public_html/content/plugins/tc/includes/startups/class-tc-startups-post-types.php"
+			],
+			[
+				"startups",
+				"techchamp/public_html/content/plugins/tc/includes/startups/tc-startups.php"
+			],
+			[
+				"te",
+				"techchamp/public_html/content/plugins/tc/tech-champ.php"
+			],
+			[
+				"rank",
+				"techchamp/public_html/content/plugins/tc/assets/less/ranks.less"
+			],
+			[
+				"tc-i",
+				"techchamp/public_html/content/plugins/tc/includes/innercircles/tc-innercircles.php"
+			],
+			[
+				"tc-ad",
+				"techchamp/public_html/content/plugins/tc/includes/tc-admin.php"
+			],
+			[
+				"tc-inn",
+				"public_html/content/plugins/tc/includes/innercircles/tc-innercircles.php"
+			],
+			[
+				"koov",
+				"config/env/koove.php"
+			],
+			[
+				"less/",
+				"techchamp/public_html/content/plugins/tc/assets/less/template.less"
+			],
+			[
+				"tc-st",
+				"techchamp/public_html/content/plugins/tc/includes/startups/class-tc-startups-form-submit.php"
+			],
+			[
+				"tc-sta",
+				"techchamp/public_html/content/plugins/tc/includes/startups/tc-startups.php"
+			],
+			[
+				"tcinn",
+				"techchamp/public_html/content/plugins/tc/includes/innercircles/tc-innercircles.php"
+			],
+			[
+				"sty",
+				"techchamp/public_html/content/plugins/tc/assets/less/style.less"
+			],
+			[
+				"template.le",
+				"techchamp/public_html/content/plugins/tc/assets/less/template.less"
+			],
+			[
+				"tc-ii",
+				"techchamp/public_html/content/plugins/tc/includes/innercircles/tc-innercircles.php"
+			],
+			[
+				"topics/",
+				"public_html/content/plugins/tc/templates/topics/topic-single.php"
+			],
+			[
+				"startups/sta",
+				"public_html/content/plugins/tc/templates/startups/startup-single.php"
+			],
+			[
+				"topic",
+				"public_html/content/plugins/tc/templates/topic.php"
+			],
+			[
+				"startup.",
+				"public_html/content/plugins/tc/templates/startup.php"
+			],
+			[
+				"tc-star",
+				"public_html/content/plugins/tc/includes/startups/class-tc-startups-form-submit.php"
+			],
+			[
+				".ht",
+				"techchamp/public_html/.htaccess"
+			],
+			[
+				"ttem",
+				"techchamp/public_html/content/plugins/tc/tc-template.php"
+			],
+			[
+				"tech",
+				"techchamp/public_html/content/plugins/tc/tech-champ.php"
+			],
+			[
+				".bc",
+				"techchamp/.bc"
+			],
+			[
+				"tc-ac",
+				"techchamp/public_html/content/plugins/tc/includes/activity/tc-activity.php"
+			],
+			[
+				"communit",
+				"techchamp/public_html/content/plugins/tc/templates/community/community-single-post.php"
+			],
+			[
+				"postsi",
+				"techchamp/public_html/content/plugins/tc/templates/posts/post-footer-single.php"
+			],
+			[
+				"post",
+				"techchamp/public_html/content/plugins/tc/templates/posts/post-footer.php"
+			],
+			[
+				"generashare",
+				"techchamp/public_html/content/plugins/tc/templates/general/share-form.php"
+			],
+			[
+				"bootst",
+				"techchamp/public_html/content/plugins/tc/assets/js/bootstrap-dialog.js"
+			],
+			[
+				"post-footer",
+				"techchamp/public_html/content/plugins/tc/templates/posts/post-footer.php"
+			],
+			[
+				"comm",
+				"techchamp/public_html/content/plugins/tc/templates/community/community-single-loop.php"
+			],
+			[
+				"stag",
+				"techchamp/config/env/staging.php"
+			],
+			[
+				"tc-fb",
+				"techchamp/public_html/content/plugins/tc/includes/fbsync/tc-fbsync.php"
+			],
+			[
+				"style.l",
+				"techchamp/public_html/content/plugins/tc/assets/less/style.less"
+			],
+			[
+				"communi",
+				"techchamp/public_html/content/plugins/tc/templates/community/community-single-loop.php"
+			],
+			[
+				".git",
+				"techchamp/.gitignore"
+			],
+			[
+				"tc-co",
+				"techchamp/htdocs/content/plugins/tc/includes/community/tc-community.php"
+			],
+			[
+				"answer-",
+				"techchamp/htdocs/content/plugins/tc/templates/answers/answers-loop.php"
+			],
+			[
+				"commusingl",
+				"techchamp/htdocs/content/plugins/tc/templates/community/community-single-loop.php"
+			],
+			[
+				".less",
+				"techchamp/htdocs/content/plugins/tc/assets/less/style.less"
+			],
+			[
+				".le",
+				"techchamp/htdocs/content/plugins/tc/assets/less/style.less"
+			],
+			[
+				"nex",
+				"techchamp/htdocs/content/plugins/tc/lib/nextend-facebook-connect/nextend-facebook-connect.php"
+			],
+			[
+				"fbys",
+				"techchamp/htdocs/content/plugins/tc/assets/js/fbsync.js"
+			],
+			[
+				"thum",
+				"techchamp/htdocs/content/plugins/tc/lib/thumbUp/classes/thumbsup_item.php"
+			],
+			[
+				"commu",
+				"techchamp/htdocs/content/plugins/tc/templates/community/community-single-post.php"
+			],
+			[
+				"thu",
+				"techchamp/htdocs/content/plugins/tc/lib/thumbUp/classes/thumbsup_item.php"
+			],
+			[
+				"class-star",
+				"htdocs/content/plugins/tc/includes/startups/class-tc-startups-form-submit.php"
+			],
+			[
+				"style.le",
+				"tech-champ/public/content/themes/tc/includes/less/style.less"
+			],
+			[
+				"tc-r",
+				"tech-champ/public/content/plugins/tc/includes/class-tc-routes.php"
+			],
+			[
+				"textare",
+				"tech-champ/public/content/plugins/tc/templates/form-fields/textarea-field.php"
+			],
+			[
+				"word",
+				"tech-champ/config/wordpress.php"
+			],
+			[
+				"deve",
+				"tech-champ/config/env/development.php"
+			],
+			[
+				"file",
+				"tech-champ/public/content/plugins/tc/templates/form-fields/file-field.php"
+			],
+			[
+				"jobmanagerform",
+				"wp-job-manager/includes/abstracts/abstract-wp-job-manager-form.php"
+			],
+			[
+				"jobmanageform",
+				"wp-job-manager/includes/class-wp-job-manager-forms.php"
+			],
+			[
+				"twitter",
+				"public/content/plugins/tc/lib/nextend-twitter-connect/nextend-twitter-connect.php"
+			],
+			[
+				"css",
+				"style.css"
+			],
+			[
+				"css/st",
+				"kmv1/css/style.css"
+			],
+			[
+				"woo",
+				"kmv1/css/woocommerce.css"
+			],
+			[
+				"mai",
+				"js/main.js"
+			],
+			[
+				"fun",
+				"bootstrapwp-Twitter-Bootstrap-for-WordPress/functions.php"
+			],
+			[
+				"flat",
+				"bootstrapwp-Twitter-Bootstrap-for-WordPress/css/flat-ui.css"
+			],
+			[
+				"abou",
+				"bootstrapwp-Twitter-Bootstrap-for-WordPress/page-about.php"
+			],
+			[
+				"full",
+				"bootstrapwp-Twitter-Bootstrap-for-WordPress/page-full-width.php"
+			],
+			[
+				"foo",
+				"bootstrapwp-Twitter-Bootstrap-for-WordPress/footer.php"
+			],
+			[
+				"func",
+				"bootstrapwp-Twitter-Bootstrap-for-WordPress/functions.php"
+			],
+			[
+				"app",
+				"memney/js/app.js"
+			],
+			[
+				"inde",
+				"memney/index.php"
+			],
+			[
+				"sing",
+				"wordpress-bootstrap/single.php"
+			],
+			[
+				"fu",
+				"wordpress-bootstrap/functions.php"
+			],
+			[
+				"sid",
+				"wordpress-bootstrap/sidebar.php"
+			],
+			[
+				"sin",
+				"wordpress-bootstrap/single.php"
+			],
+			[
+				"me",
+				"memney/memney.php"
+			],
+			[
+				"foot",
+				"wordpress-bootstrap/footer.php"
+			],
+			[
+				"blan",
+				"memney/templates/blank_meme_template.php"
+			],
+			[
+				"mark",
+				"memney/inc/Mark.php"
+			],
+			[
+				"zon",
+				"banglore/zones.json"
+			],
+			[
+				"sub",
+				"banglore/subzones.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/public_html/501.sublime-project"
+			],
+			[
+				"tw",
+				"/home/sunny/public_html/twitterSchedule/twitterScheduler.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+		],
+		"width": 687.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 333.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
